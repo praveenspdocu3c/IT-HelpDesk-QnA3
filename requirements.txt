@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+PyMuPDF
+pandas
+fpdf
+openpyxl
+protobuf==3.20.3 
+pysqlite3-binary
